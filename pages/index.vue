@@ -8,7 +8,7 @@
           <CustomInput link-to="lastName" placeholder="last name" type="text" />
         </div>
         <div class="group ">
-          <div class="el gap-3 nestedGroup   flex flex-col">
+          <div class="el gap-3 nestedGroup w-full flex flex-col">
             <CustomCombobox :default-value="defaultValue" :options="countries" />
             <CustomInput link-to="phoneNumber" placeholder="Phone Number" class="mb-2" type="text" />
             <div class="options">

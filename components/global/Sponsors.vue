@@ -53,27 +53,27 @@ const logoCategories = [
     },
     {
         category: "in association with",
-        logos: ["/home/logos/association/1.png", "/home/logos/Association/2.png", "/home/logos/Association/3.png", "/home/logos/Association/4.png"],
+        logos: ["/home/logos/association/1.png", "/home/logos/association/2.png", "/home/logos/association/3.png", "/home/logos/association/4.png"],
     },
     {
         category: "association",
-        logos: ["/home/logos/Association/1.png", "/home/logos/Association/2.png", "/home/logos/Association/3.png", "/home/logos/Association/4.png"],
+        logos: ["/home/logos/association/1.png", "/home/logos/association/2.png", "/home/logos/association/3.png", "/home/logos/association/4.png"],
     },
     {
         category: "host venue",
-        logos: ["/home/logos/Host/1.png"],
+        logos: ["/home/logos/host/1.png"],
     },
     {
         category: "Organized by",
-        logos: ["/home/logos/Organized/1.png"],
+        logos: ["/home/logos/organized/1.png"],
     },
     {
         category: "ISO certificate",
-        logos: ["/home/logos/Certificate/1.png", "/home/logos/Certificate/2.png"],
+        logos: ["/home/logos/certificate/1.png", "/home/logos/certificate/2.png"],
     },
     {
         category: "Member of",
-        logos: ["/home/logos/Member/1.png", "/home/logos/Member/2.png", "/home/logos/Member/3.png", "/home/logos/Member/4.png"],
+        logos: ["/home/logos/member/1.png", "/home/logos/member/2.png", "/home/logos/member/3.png", "/home/logos/member/4.png"],
     },
 ]
 
